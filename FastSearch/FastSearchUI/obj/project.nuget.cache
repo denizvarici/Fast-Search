@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0YG0vWY+ftTwFt5hPqi63gCe2Wn+VeDRqOWrdQgjtSMzw1gPHzkApqPVtyxK3rlDA4uH4+KBwQSjqchD5ISgw==",
+  "success": true,
+  "projectFilePath": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\FastSearchUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\excalibur\\.nuget\\packages\\noninvasivekeyboardhooklibrary.core\\2.1.0\\noninvasivekeyboardhooklibrary.core.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
