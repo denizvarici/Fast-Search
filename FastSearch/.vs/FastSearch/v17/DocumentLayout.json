@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "R:\\GITHUB\\Fast-Search\\FastSearch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|R:\\GITHUB\\Fast-Search\\FastSearch\\fastsearchui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|R:\\GITHUB\\Fast-Search\\FastSearch\\fastsearchui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|R:\\GITHUB\\Fast-Search\\FastSearch\\fastsearchui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|r:\\github\\fast-search\\fastsearch\\fastsearchui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,11 +19,7 @@
       "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|R:\\GITHUB\\Fast-Search\\FastSearch\\fastsearchui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|r:\\github\\fast-search\\fastsearch\\fastsearchui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|R:\\GITHUB\\Fast-Search\\FastSearch\\fastsearchui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2BEE580-200D-4E68-BBBD-2AC594E2B46C}|FastSearchUI\\FastSearchUI.csproj|solutionrelative:fastsearchui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs",
+              "RelativeDocumentMoniker": "FastSearchUI\\Form1.cs",
+              "ToolTip": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs [Design]",
+              "RelativeToolTip": "FastSearchUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:09:40.235Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -50,8 +62,7 @@
               "RelativeToolTip": "FastSearchUI\\Form3.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAgwDIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T13:21:09.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T13:21:09.871Z"
             },
             {
               "$type": "Document",
@@ -62,25 +73,24 @@
               "ToolTip": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form3.cs [Design]",
               "RelativeToolTip": "FastSearchUI\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T13:20:32.036Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-20T13:20:32.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form2.cs",
               "RelativeDocumentMoniker": "FastSearchUI\\Form2.cs",
               "ToolTip": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form2.cs",
               "RelativeToolTip": "FastSearchUI\\Form2.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAApwCAAAAAvAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T13:06:20.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form2.cs",
               "RelativeDocumentMoniker": "FastSearchUI\\Form2.cs",
@@ -92,28 +102,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs",
               "RelativeDocumentMoniker": "FastSearchUI\\Form1.cs",
               "ToolTip": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs",
               "RelativeToolTip": "FastSearchUI\\Form1.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAEwAwAAAAYAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T12:09:42.479Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs",
-              "RelativeDocumentMoniker": "FastSearchUI\\Form1.cs",
-              "ToolTip": "R:\\GITHUB\\Fast-Search\\FastSearch\\FastSearchUI\\Form1.cs [Design]",
-              "RelativeToolTip": "FastSearchUI\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T12:09:40.235Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
